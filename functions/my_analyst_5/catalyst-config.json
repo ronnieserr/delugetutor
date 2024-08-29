@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "my_analyst_5",
+		"stack": "node18",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "app.js"
+	}
+}

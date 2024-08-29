@@ -1,0 +1,9 @@
+{
+	"name": "my_analyst_5",
+	"version": "1.0.0",
+	"main": "app.js",
+	"author": "ronnie@alphabethouse.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

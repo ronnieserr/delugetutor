@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "my_analyst_5"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

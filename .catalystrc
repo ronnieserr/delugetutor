@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "480000000710081",
+      "name": "MyAnalyst3",
+      "domain": {
+        "id": "10087390746",
+        "name": "myanalyst3-698752249.development"
+      },
+      "timezone": "America/Indiana/Vincennes",
+      "env": [
+        {
+          "idx": 1,
+          "id": "698752249",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
